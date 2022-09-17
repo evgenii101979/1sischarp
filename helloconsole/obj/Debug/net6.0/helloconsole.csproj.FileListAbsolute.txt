@@ -1,0 +1,15 @@
+D:\учеба 2\WSC\lec1cisharp\helloconsole\bin\Debug\net6.0\helloconsole.exe
+D:\учеба 2\WSC\lec1cisharp\helloconsole\bin\Debug\net6.0\helloconsole.deps.json
+D:\учеба 2\WSC\lec1cisharp\helloconsole\bin\Debug\net6.0\helloconsole.runtimeconfig.json
+D:\учеба 2\WSC\lec1cisharp\helloconsole\bin\Debug\net6.0\helloconsole.dll
+D:\учеба 2\WSC\lec1cisharp\helloconsole\bin\Debug\net6.0\helloconsole.pdb
+D:\учеба 2\WSC\lec1cisharp\helloconsole\obj\Debug\net6.0\helloconsole.csproj.AssemblyReference.cache
+D:\учеба 2\WSC\lec1cisharp\helloconsole\obj\Debug\net6.0\helloconsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба 2\WSC\lec1cisharp\helloconsole\obj\Debug\net6.0\helloconsole.AssemblyInfoInputs.cache
+D:\учеба 2\WSC\lec1cisharp\helloconsole\obj\Debug\net6.0\helloconsole.AssemblyInfo.cs
+D:\учеба 2\WSC\lec1cisharp\helloconsole\obj\Debug\net6.0\helloconsole.csproj.CoreCompileInputs.cache
+D:\учеба 2\WSC\lec1cisharp\helloconsole\obj\Debug\net6.0\helloconsole.dll
+D:\учеба 2\WSC\lec1cisharp\helloconsole\obj\Debug\net6.0\refint\helloconsole.dll
+D:\учеба 2\WSC\lec1cisharp\helloconsole\obj\Debug\net6.0\helloconsole.pdb
+D:\учеба 2\WSC\lec1cisharp\helloconsole\obj\Debug\net6.0\helloconsole.genruntimeconfig.cache
+D:\учеба 2\WSC\lec1cisharp\helloconsole\obj\Debug\net6.0\ref\helloconsole.dll
